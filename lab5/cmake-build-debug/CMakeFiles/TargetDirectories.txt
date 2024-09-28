@@ -1,0 +1,3 @@
+/Users/dmytro/Downloads/Lab/OP-C/lab5/cmake-build-debug/CMakeFiles/lab5.dir
+/Users/dmytro/Downloads/Lab/OP-C/lab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dmytro/Downloads/Lab/OP-C/lab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
