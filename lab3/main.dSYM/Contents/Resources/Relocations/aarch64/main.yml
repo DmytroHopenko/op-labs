@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dmytro/Downloads/Lab/OP-C/lab3/main'
+relocations:     []
+...
